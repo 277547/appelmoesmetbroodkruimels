@@ -1,0 +1,37 @@
+* {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+body {
+    width: 100%;
+    min-height: 100%;
+    font-size: 60px;
+    
+    background-color: ;
+}
+
+#guessesDiv {
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#animation {
+    width: 80%;
+    height: 500px;
+    #background-color: #5c9aff;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+button {
+    width: 60px;
+    height: 60px;
+    font-size: 25px;
+    margin: 2px;
+}
+
+#resetButton {
+    width: 90px;
+}
